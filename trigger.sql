@@ -23,6 +23,6 @@ insert into orders (order_number) values (16500);
 select * from orders;
 
 delete from orders
-where order_number = 16500
+where order_number = 16500;
 
 select * from orders;
